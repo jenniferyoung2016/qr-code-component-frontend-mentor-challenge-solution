@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (jenniferyoung2016/qr-code-component-frontend-mentor-challenge-solution)
 - Live Site URL: (https://jenniferyoung2016.github.io/qr-code-component-frontend-mentor-challenge-solution/)
 
 
@@ -26,9 +26,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - HTML5 markup
 - CSS custom properties
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 
 ## Author
 
