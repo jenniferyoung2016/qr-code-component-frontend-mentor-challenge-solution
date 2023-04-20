@@ -28,7 +28,7 @@ main, .item, img {
  main {      
     max-width: 300px;
     text-align: center; 
-}
+   }
 
 .item {
     width: 100%;
@@ -46,8 +46,7 @@ h2 {
     color: #1f3251;   
     font-weight: 700;   
     margin: 15px;  
-    letter-spacing: .5px;
-    
+    letter-spacing: .5px;    
     }
 
 p {    
@@ -55,7 +54,7 @@ p {
     font-weight:  400;
     color: #7b879d;
     letter-spacing: 1px;   
-    margin-bottom: 20px;    
+    margin-bottom: 20px;  
 }
 
 .attribution {
